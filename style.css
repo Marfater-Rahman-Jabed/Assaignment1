@@ -1,0 +1,151 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cover-bg {
+
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+
+
+}
+
+.cover-text {
+    text-align: center;
+    color: white;
+
+
+    padding: 5%;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.ancor {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px;
+    border-radius: 8%;
+}
+
+.align {
+    text-align: center;
+
+}
+
+.align2 {
+    text-align: justify;
+}
+
+.color {
+    color: gray;
+}
+
+.half-width {
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+    width: 50%;
+}
+
+.triple-width {
+    display: flex;
+
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+
+    margin-left: 15%;
+    margin-bottom: 5%;
+
+
+}
+
+
+.triple-width img {
+    width: 20%;
+    height: 20%;
+}
+
+.half-width1 {
+    padding: 5%;
+    background-image: linear-gradient(gray, black);
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 8%;
+    color: white;
+
+
+}
+
+.half-width2 {
+    padding: 5%;
+    background-image: linear-gradient(orange, tomato);
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 8%;
+    border: 2px solid black;
+    border-color: brown;
+    color: white;
+}
+
+.input {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    outline: none;
+
+}
+
+.div1 {
+    width: 45%;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    margin-top: 5%;
+
+
+    margin-right: 2%;
+    background-color: skyblue;
+
+}
+
+.div2 {
+
+    width: 45%;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    margin-top: 5%;
+
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: antiquewhite;
+
+}
+
+.div3 {
+
+    width: 45%;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    margin-top: 5%;
+
+    margin-left: 2%;
+
+    background-color: burlywood;
+
+}
