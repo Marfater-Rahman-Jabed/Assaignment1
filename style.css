@@ -13,6 +13,7 @@ body {
 
 
 
+
 }
 
 .cover-text {
@@ -191,7 +192,7 @@ h3 {
 }
 
 h6 {
-    font-size: 25%;
+    font-size: 45%;
 }
 
 .subs {
@@ -221,6 +222,7 @@ h6 {
 .foot-bg {
     background-color: black;
     background-size: cover;
+
 
     margin: 0%;
     padding-top: 1px;
